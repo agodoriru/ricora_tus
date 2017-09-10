@@ -5,7 +5,7 @@ RICORA Site Generator
 
 ## 概要
 このソフトはRicoraのサイトを生成してデプロイまでしちゃうプログラムです。
-RubyGemsの、静的サイト生成フレームワーク[nanoc](http://nanoc.stoneship.org/)を使ってるよ。なので、ちゃんと理解したい人は[nanoc](http://nanoc.stoneship.org/)のページを見ればいいと思うよ。
+RubyGemsの、静的サイト生成フレームワーク[nanoc](https://nanoc.ws)を使ってるよ。なので、ちゃんと理解したい人は[nanoc](https://nanoc.ws)のページを見ればいいと思うよ。
 
 ## 各ディレクトリの説明
 ##### `/content`
