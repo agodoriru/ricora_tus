@@ -35,7 +35,7 @@ RubyやRubyGems関連のファイルです。通常触る必要ないです。
 
 ## ページ編集の仕方
 `/content`以下のページの記述には、軽量マークアップ言語`markdown`を用いて記述することができます。
-実際の処理は[`kramdown`](http://kramdown.rubyforge.org/)を使って処理するので、`markdown`標準よりも拡張されたマークアップを行うことが可能です。詳しくは[kramdown - syntax](http://kramdown.rubyforge.org/syntax.html)を見てください。
+実際の処理は[`kramdown`](https://kramdown.gettalong.org/index.html)を使って処理するので、`markdown`標準よりも拡張されたマークアップを行うことが可能です。詳しくは[kramdown - syntax](https://kramdown.gettalong.org/syntax.html)を見てください。
 ファイルを書けばそのままそれがコンパイルされて`/output`以下にできます。
 
 ## ページ発行のしかた
